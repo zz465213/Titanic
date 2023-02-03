@@ -1,5 +1,5 @@
+數據來源處:Kaggle
+https://www.kaggle.com/competitions/titanic
+
 Question: predicts which passengers survived the Titanic shipwreck.
 (預計哪些乘客會在鐵達尼克號沈船事故倖存下來)
-
-1.先把test跟gender_submission資料串接
-2.將串接後的test 跟 train合併
