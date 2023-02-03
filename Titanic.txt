@@ -1,0 +1,2 @@
+Question: predicts which passengers survived the Titanic shipwreck.
+(預計哪些乘客會在鐵達尼克號沈船事故倖存下來)
